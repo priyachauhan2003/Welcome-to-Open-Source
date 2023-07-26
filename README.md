@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/priyachauhan2003">
+                    <img src="https://avatars.githubusercontent.com/u/111900319?v=4" width="100px;" alt="Priya Chauhan"/>
+                    <br />
+                    <sub><b>Priya Chauhan</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
